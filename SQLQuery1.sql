@@ -1,0 +1,1 @@
+﻿create table CustomerTbl(Custcode int primary key identity, Name varchar(50));

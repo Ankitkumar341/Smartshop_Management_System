@@ -1,0 +1,2 @@
+﻿ItName varchar(80),itCategory int foreign key references CategoryTbl(CatCode),Gender varchar(10),Phone varchar (15),Bcode int primary key identity,BDate date,Customer int foreign key refereItName varchar identity,BDate date, customer int foreign key references customersTbl(Custcode)itName varchar references,code references CustomersTbl(Custcode),Amountint , PaymentMothod
+varchar (50)oryTbl(Catcode));
